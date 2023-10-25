@@ -1,5 +1,5 @@
 # Max Bloor - PhD Student
-## Centre for Process Systems Engineering, Imperial College London
+## Centre for Process Systems Engineering, Imperial College London 🔬🧪
 
 ⚙ Currently working on the use of reinforcement learning to tune controllers for chemical processes. 
 
